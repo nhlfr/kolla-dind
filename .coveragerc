@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = kolla_dind
+omit = kolla_dind/openstack/*
+
+[report]
+ignore_errors = True
